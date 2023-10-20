@@ -12,3 +12,8 @@ Envie uma requisição POST para a rota localhost/users com o body
 }
 
 ```
+
+# Subir para o render
+
+Para subir o projeto para dashboard.render.com, segui o seguinte tutorial:
+https://render.com/docs/deploy-flask
